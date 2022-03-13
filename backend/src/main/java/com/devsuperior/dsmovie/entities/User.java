@@ -11,7 +11,7 @@ import javax.persistence.Table;
 public class User {
 
 	@Id
-	@GeneratedValue( strategy = GenerationType.IDENTITY)
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 	private String email;
 	
@@ -39,5 +39,8 @@ public class User {
 	public void setEmail(String email) {
 		this.email = email;
 	}
+	
+	
+	
 	
 }
