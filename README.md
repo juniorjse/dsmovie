@@ -3,9 +3,6 @@
 </h1>
 <br><br>
 
-![screen-capture-_1_](https://user-images.githubusercontent.com/82779533/158065307-216c96aa-f4cb-4a9e-b3e4-eb5365e6364c.gif)
-<br><br>
-
 ## 🔎 Sobre o projeto (About the project)
 Aplicação foi desenvolvida durante a Semana Spring React do [DevSuperior](https://www.youtube.com/devsuperior).
 A aplicação consiste em fazer uma busca paginada e avaliação de filmes. O Back-End foi construído com **Spring Boot** e o Front-End com **React**
