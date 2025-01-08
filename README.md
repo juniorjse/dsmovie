@@ -69,10 +69,7 @@ $ yarn start
 1. Abra a pasta `backend` em uma IDE java (O nélio usou o SpringTool);
 2. Instale as dependências do maven;
 3. Execute o arquivo `DsmovieApplication.java`.
-
-## ☁️ O app também está disponível na **web** pela nuvem do **Netlify!** **[Clique aqui para visualizar](https://robinho-dsmovie.netlify.app/)**
-<br><br>
-
+   
 ## 🎉 Aprendizados Back-end
 
 - Modelo de domínio
